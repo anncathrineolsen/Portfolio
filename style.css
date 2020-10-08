@@ -286,6 +286,7 @@ color: white;
   justify-content: center;
   align-items: center;
   text-align: center;
+  font-weight: lighter;
 }
 
 .s-b-text a {
@@ -353,6 +354,7 @@ color: white;
   margin: 0px;
   padding: 0px;
   padding-bottom: 20px;
+  font-weight: lighter;
 }
 
 .p-box {
@@ -399,6 +401,7 @@ color: white;
 
 .overlay-text h1, p {
   color: #FFFFFF;
+  font-weight: lighter;
 }
 
 .overlay-text h1 {
