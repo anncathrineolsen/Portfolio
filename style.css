@@ -209,6 +209,13 @@ color: white;
 .about-text h2 span{
   font-size: 60px;
 }
+.about-text span{
+  font-weight: bold;
+  color: skyblue;
+}
+.about-text p{
+  font-weight: lighter;
+}
 
 #services {
   width: 100%;
